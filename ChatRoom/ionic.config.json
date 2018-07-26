@@ -1,0 +1,8 @@
+{
+  "name": "ChatRoom",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "6ea7688a"
+}
